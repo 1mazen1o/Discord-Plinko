@@ -42,7 +42,7 @@ hitmarker = pygame.mixer.Sound("hitmarker_2.mp3")
 fart = pygame.mixer.Sound("perfect-fart.mp3")
 chaching3x = pygame.mixer.Sound("audiojoiner120623175716.mp3")
 chaching = pygame.mixer.Sound("cha_ching_register-muska666-173262285.mp3")
-ijusthit = pygame.mixer.Sound("i-just-hit-the-jackpot-meme.mp3.mp3")
+ijusthit = pygame.mixer.Sound("i-just-hit-the-jackpot-meme.mp3")
 
 hitmarker.set_volume(0.5)
 fart.set_volume(0.5)
